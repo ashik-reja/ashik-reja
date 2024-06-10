@@ -1,0 +1,36 @@
+link {
+  mdashikreja4200@gmail.com
+}
+
+table th {
+  border: 10px solid #ddd;
+  padding: 10px;
+}
+
+
+table tr:nth-child(even){background-color: white;}
+
+table {background-color: #4d4a52;}
+
+ 
+table th {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+  background-color: #04AA6D;
+  color: white;
+}
+h1.p{
+  color: aqua;
+
+}
+h2{
+  color: rgb(240, 240, 242);
+  background-color: rgb(135, 11, 207);
+}
+
+h1{
+  color:  rgb(240, 240, 242);
+  background-color:  rgb(123, 14, 240);;
+}
+
